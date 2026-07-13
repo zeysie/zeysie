@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Zeynep!
-🎓 I'm a 2nd-year Computer Engineering student at **İzmir Institute of Technology (IZTECH)**
+🎓 I'm a 3rd-year Computer Engineering student at **İzmir Institute of Technology (IZTECH)**
 
 💻 Currently learning **Java** and **Python**
 
