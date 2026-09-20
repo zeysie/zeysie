@@ -3,4 +3,4 @@
 
 💻 Currently learning **Java** and **Python**
 
-🚀 Interested in exploring **cybersecurity**, **game development**, and **AI** in the future
+🚀 Interested in exploring **game development** and **AI** in the future
